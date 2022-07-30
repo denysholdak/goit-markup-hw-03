@@ -62,7 +62,7 @@ img {
     align-items: center;
 }
 
-.header  .container{
+.header  {
     padding: 24px 0 25px;
 }
 
@@ -136,7 +136,7 @@ border-bottom: 1px solid var(--border-header);
     letter-spacing: 0.06em;
 }
 
-.hero .container {
+.hero {
     padding: 200px 0;}
 
 .hero-title {
@@ -187,7 +187,7 @@ border-bottom: 1px solid var(--border-header);
     overflow: hidden;
 }
 
-.characteristic,
+
 .characteristic .list{
 display: flex;
     flex-wrap: wrap;
